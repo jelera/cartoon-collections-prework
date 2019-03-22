@@ -8,7 +8,7 @@ end
 def summon_captain_planet(arr)
   # Your code here
   arr.collect do | item |
-    item
+    "#{item.capitalize}!"
   end
 end
 

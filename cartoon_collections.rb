@@ -26,5 +26,5 @@ def find_the_cheese(arr)# code an argument here
   cheese_types.each do |cheese|
     arr.include?(cheese)
   end
-  
+
 end
